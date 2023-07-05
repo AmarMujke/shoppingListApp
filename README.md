@@ -1,2 +1,1 @@
-# shoppingListApp
-Mobile programming project
+# shoppingList
